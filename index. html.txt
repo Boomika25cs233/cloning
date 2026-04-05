@@ -1,13 +1,11 @@
-<!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Static Web Page</title>
 </head>
 <body>
-
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-<p>This file is edited in MAIN branch<p>
-
+<h1>Welcome to My Web Page</h1>
+<p>This is a static web page created using GitHub.</p>
+<p>Name: Boomika</p>
+<p>Register Number: 25CS233</p>
 </body>
 </html>
